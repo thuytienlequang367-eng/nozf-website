@@ -2,10 +2,11 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Awesome Project",
-  description: "A VitePress Site",
+ title: "NOZF.com",
+  description: "Non-Obliterable Zip Format",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    siteTitle: "NOZF", // 👈 把默认名字改成你的战舰代号！
     nav: [
       { text: 'Home', link: '/' },
       { text: '技术白皮书/Whitepaper', link: '/whitepaper' }, 
