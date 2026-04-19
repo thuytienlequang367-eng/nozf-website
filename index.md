@@ -6,7 +6,7 @@ hero:
   text: "数据固化，即成铁证。"
   tagline: "NOZF(non-obliterable zip format) ， 基于密码学的防抹除压缩文件格式，专为本地 AI 与真正的数据主权而设计。"
   image:
-    src: /logo.png # 记得把你那个黄色箱子 logo 放在 public 文件夹下，改名为 logo.png
+    src: '/logo.png' # 记得把你那个黄色箱子 logo 放在 public 文件夹下，改名为 logo.png
     alt: NOZF Logo
   actions:
     - theme: brand
