@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,ae as r}from"./chunks/framework.Czhw_PXq.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"whitepaper.md","filePath":"whitepaper.md"}'),n={name:"whitepaper.md"};function a(i,p,l,c,s,d){return t(),o("div",null,[...p[0]||(p[0]=[r("",26)])])}const g=e(n,[["render",a]]);export{m as __pageData,g as default};
