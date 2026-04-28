@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 立即下载 V1.0 (云端确权版)
-      link: https://github.com/a0eeb367-9cf6-46a9-8a09-61201256e74b
+      link: [https://github.com/a0eeb367-9cf6-46a9-8a09-61201256e74b](https://github.com/thuytienlequang367-eng/nozf-website/releases/download/v1.0.0/nozf-editor_0.1.0_x64-setup.exe)
     - theme: alt
       text: 协议白皮书
       link: /whitepaper
