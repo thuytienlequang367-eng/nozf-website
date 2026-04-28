@@ -10,7 +10,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: '技术白皮书/Whitepaper', link: '/whitepaper' }, 
-      { text: '社区/Community', link: 'https://github.com/your-repo' }
+      { text: '社区/Community', link: 'https://github.com/thuytienlequang367-eng/nozf-website/tree/main' }
     ],
 
     sidebar: [
