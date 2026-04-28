@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 立即下载 V1.0 (云端确权版)
-      link: /download
+      link: https://github.com/a0eeb367-9cf6-46a9-8a09-61201256e74b
     - theme: alt
       text: 协议白皮书
       link: /whitepaper
