@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
- title: "NOZF.com",
+ title: "NOZF-基于密码学的防抹除压缩档案格式。",
   description: "Non-Obliterable Zip Format",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
