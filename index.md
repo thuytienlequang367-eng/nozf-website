@@ -1,4 +1,4 @@
-<img width="1602" height="610" alt="image" src="https://github.com/user-attachments/assets/b415a56a-0bde-4ead-9b1a-f9095c4a648a" />---
+
 layout: home
 
 hero:
