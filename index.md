@@ -14,7 +14,7 @@ hero:
       link: https://download.nozf.com/nozf-editor_0.1.0_x64-setup.exe
     - theme: brand
       text: 立即下载 V1.0 (Android版)
-      link: https://github.com/thuytienlequang367-eng/nozf-website/releases/download/Android1.0/app-universal-release.apk
+      link: https://download.nozf.com/app-universal-release.apk
     - theme: alt
       text: 协议白皮书
       link: /whitepaper
